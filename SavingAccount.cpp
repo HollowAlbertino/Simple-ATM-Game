@@ -1,4 +1,3 @@
-//DISPLAY 10.6 Class with Constructors 
 //Program to demonstrate the class SavingAccount.
 #include "SavingAccount.h"
 #include <iostream>
