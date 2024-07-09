@@ -1,4 +1,3 @@
-//DISPLAY 10.6 Class with Constructors 
 //Program to demonstrate the class BankAccount.
 #include <iostream>
 using namespace std;
